@@ -1,2 +1,2 @@
-# Javascri-pt-intermediate-Projects
-javascript-intermediate level projects
+# JS Projects 
+#suggest best way to improve it
